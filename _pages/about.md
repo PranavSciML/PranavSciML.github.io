@@ -33,7 +33,7 @@ Pranav Bahl completed his master's degree from the Dept. of Aeronautics, Imperia
 * Turbulence and Computational fluid dynamics (CFD)
 
 ## Education
-**PhD**, Aerospace Engineering (PhD Pre-candidate), University of Michigan Ann Arbor, 2024-29
+**MS**, Aerospace Engineering, University of Michigan Ann Arbor, 2024-25
 <br />
 **Current Research:** Generative modelling using Tensor network latent spaces (Recurrent neural networks and Diffusion Models)
 <br />
