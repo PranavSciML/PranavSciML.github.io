@@ -9,18 +9,18 @@ redirect_from:
 
 **Location** 
 <br />
-London, United Kingdom
+Ann Arbor, MI, United States
 <br />
 <br />
 **Email-Id :** 
 <br />
-pranav.bahl22@imperial.ac.uk
+pbahl@umich.edu
 <br />
 pranavbahl.imperial22@gmail.com
 <br /> 
 <br />
 **Contact**
 <br />
-UK : +44 07471677457
+US : +1 7346574550
 <br />
 India : +91 9873684026 (*Whatsapp only !*)
