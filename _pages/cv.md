@@ -14,6 +14,10 @@ redirect_from:
 
 # Summary
 ## Education
+**MS**, Aerospace Engineering, University of Michigan Ann Arbor, 2024-25
+<br />
+**Current Research:** Generative modelling using Tensor network latent spaces (Recurrent neural networks and Diffusion Models)
+<br />
 **MSc**, Aerospace Engineering (Master's degree), Imperial College London (ICL), 2022-23
 <br /> 
 **Concentration:** Advanced Computational Methods for Aeronautics, Flow-management and Fluid-structure interaction
@@ -62,3 +66,9 @@ Delhi Technological University (DTU), India
 * Computational Linear Algebra
 * Advanced Fluid Mechanics and Fluid Structure Interaction (FSI)
 * Artificial Intelligence/Machine Learning
+
+  ### University of Michigan Courseworks
+* Turbulence
+* Bayesian Inference
+* Linear systems theory
+* Convex Optimization
