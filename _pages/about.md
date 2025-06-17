@@ -38,7 +38,7 @@ Pranav Bahl completed his master's degree from the Dept. of Aeronautics, Imperia
 **Current Research:** Generative modelling using Tensor network latent spaces (Recurrent neural networks and Diffusion Models)
 <br />
 
-**MSc**, Aerospace Engineering (Master's degree), Imperial College London (ICL), 2022-23
+**MSc**, Aerospace Engineering (Fluid Mechanics), Imperial College London (ICL), 2022-23
 <br /> 
 **Concentration:** Advanced Computational Methods for Fluid Mechanics
 <br />
