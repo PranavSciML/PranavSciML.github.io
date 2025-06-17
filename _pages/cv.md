@@ -19,6 +19,7 @@ redirect_from:
 **Current Research:** Generative modelling using Tensor network latent spaces (Recurrent neural networks and Diffusion Models)
 <br />
 
+
 **MSc**, Aerospace Engineering (Master's degree), Imperial College London (ICL), 2022-23
 <br /> 
 **Concentration:** Advanced Computational Methods for Aeronautics, Flow-management and Fluid-structure interaction
