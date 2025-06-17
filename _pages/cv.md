@@ -69,8 +69,8 @@ Delhi Technological University (DTU), India
 * Advanced Fluid Mechanics and Fluid Structure Interaction (FSI)
 * Artificial Intelligence/Machine Learning
 
-  ### University of Michigan Courseworks
+### University of Michigan Courseworks
 * Turbulence
-* Bayesian Inference
+* Bayesian Inference and Estimation
 * Linear systems theory
 * Convex Optimization
