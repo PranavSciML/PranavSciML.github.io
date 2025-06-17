@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Full Resume](/images/UK_Resume_MLWeb.pdf){: .btn .btn--info} (updated 26/09/2023)
+[Download Full Resume](/images/PhysicsX.pdf){: .btn .btn--info} (updated 26/09/2023)
 {% include feature_row %}
+
 
 # Summary
 ## Education
