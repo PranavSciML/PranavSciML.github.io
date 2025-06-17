@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Full Resume](/images/PhysicsX.pdf){: .btn .btn--info} (updated 26/09/2023)
+[Download Full Resume](/images/PhysicsX.pdf){: .btn .btn--info} (updated 17/06/2025)
 {% include feature_row %}
 
 
