@@ -8,8 +8,9 @@ classes: wide
 ***Dynamical systems*** are encountered within nature through various conformal representations ranging from physical phenomena such as turbulence to bacteria population dynamics to financial investment dynamics to the movement of extraterrestrial planets, etc. The common denominator in all these mutually exclusive examples is the *dependence on time (either discrete or continuous)* and the evolution of their respective degrees of freedom (DOFs) with time. However, the underlying governing equations that dictate this evolution aren’t always readily accessible or are computationally expensive endeavours. This necessitates the exploration of autonomous data-driven algorithms. There have been significant strides in the development of classical computing hardware and, in recent years, quantum computing hardware, which further accelerates the development of these algorithms. This is where the core of my research lies !
 {: style="text-align: justify;"}
 
+## 1. Data Assimilation and Probabilitic Inference
 
-## 1. Deep learning and Chaotic dynamical systems
+## 2. Deep learning and Chaotic dynamical systems
 Chaotic systems exhibit extreme sensitivity to the initial conditions, which makes it a challenging problem coupled with the range of spatio-temporal characteristics exhibited by the system. These complexities in the dynamics of forecasting/prediction of complex systems are often encountered in various scientific disciplines and are also in their nascent stages for the exploration of machine learning as the gateway. The universality of the deep-learning framework being able to approximate a continuous function (within a specified range) in such cases, i.e. time series problems, raises the idea of being able to formulate an autonomous dynamical system. Hence, so far I have explored the following:  
 {: style="text-align: justify;"}
 
@@ -33,7 +34,7 @@ In this work classical deep-learning frameworks, i.e. gated recurrent neural net
   <img src="/images/l96_web.gif" width="52%" />
 </p></center>
 
-## 2. Deep learning and Reduced order models (ROMs)
+## 3. Deep learning and Reduced order models (ROMs)
 
 Physics based high-fidelity predictions demand high spatio-temporal resolutions, which often leads to the mathematical modeling of large scale complex non-linear phenomenas into a high degree of freedom (DOF) dynamical system. However, conventional numerical methods used to develop dicretized solutions, give rise to increased utilization of computational resources which is often prohibitive. Hence, one of the objectives of my research is to develop deep learning based models that project these high-dimensional space to a lower dimensional space/manifold, wherein the reduced representation is the projection of the large scale physical features, with minimum loss.       
 {: style="text-align: justify;"}
@@ -56,7 +57,7 @@ In this work we develop a novel deep learning framework DL-ROM (deep learning—
 </p></center>
 
 
-## 3. Unmanned Aerial Vehicles
+## 4. Unmanned Aerial Vehicles
 Fabricated state-of-the-art, all-composite, Vertical Take Off and Landing Unmanned aerial vehicle (VTOL-UAV) with automatic tilt rotor mechanism using Vacuum Bagging process for HADR missions (Mehar Baba Prize competition). Improved the aerodynamic efficiency (Lift/Drag Ratio) of VTOL-UAV by introducing C-curve wing-lets by 10%, thereby enhancing the crashworthiness of the system. Developed the 3D CAD model of the UAV and tilt rotor mechanism on *Solidworks*. Carried out 3D CFD Simulations using *K-omega turbulence model* to evaluate the Coefficient of lift and drag of the VTOL-UAV. Numerical experiments were performed on *ANSYS Fluent* and *OpenFOAM*.
 {: style="text-align: justify;"}
 
