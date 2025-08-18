@@ -71,7 +71,7 @@ Delhi Technological University (DTU), India
 * Artificial Intelligence/Machine Learning
 
 ### University of Michigan, Ann Arbor - Courseworks
-* Turbulence
+* Turbulence Theory
 * Bayesian Inference and Estimation
 * Linear systems theory
 * Multidisciplinary Optimization
