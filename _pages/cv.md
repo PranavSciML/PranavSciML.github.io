@@ -32,7 +32,7 @@ redirect_from:
 **Grade:** Gpa 8.8 (Out of 10)
 
 ## Experience
-**Scientific Computing Internship**,  &nbsp; April 2024--Aug 2024 <br />
+**Computational Software Engineering Internship**,  &nbsp; April 2024--Aug 2024 <br />
 Schlumberger (SLB), Oxfordshire, United Kingdom
 
 **MSc Thesis Student**,  &nbsp; May 2023--Sept 2023 <br />
