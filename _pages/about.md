@@ -26,7 +26,7 @@ Pranav Bahl is currently a master's student at the University of Michigan, Ann A
 
 ## Interests 
 * Deep learning and Scientific machine learning (SciML)
-* Data Assimilation with Proobabilistic Inference (Ensemble Kalman Filtering)
+* Data Assimilation via Proobabilistic Inference (Ensemble Kalman Filtering)
 * Quantum deep learning and Variational quantum algorithms (VQAs)
 * Numerical methods for Partial differential equations (PDEs)  
 * Chaos theory and Dynamical systems
