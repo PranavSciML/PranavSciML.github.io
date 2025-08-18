@@ -13,7 +13,7 @@ classes: wide
 Chaotic systems exhibit extreme sensitivity to the initial conditions, which makes it a challenging problem coupled with the range of spatio-temporal characteristics exhibited by the system. These complexities in the dynamics of forecasting/prediction of complex systems are often encountered in various scientific disciplines and are also in their nascent stages for the exploration of machine learning as the gateway. The universality of the deep-learning framework being able to approximate a continuous function (within a specified range) in such cases, i.e. time series problems, raises the idea of being able to formulate an autonomous dynamical system. Hence, so far I have explored the following:  
 {: style="text-align: justify;"}
 
-### (MSc Research Project) Quantum gated recurrent neural networks  
+### (MSc Thesis @ Imperial College London) Quantum gated recurrent neural networks  
 
 I am currently investigating Quantum machine learning algorithms and their ability to tackle chaotic dynamical systems in a *teacher forced setting*. The work introduces Quantum LSTMs and Quantum GRUs. So far we benchmarked these model on a simple yet tricky toy problem, i.e. sine trigonometric function, which was used as a benchmark to generalize the comparison from an interpretability standpoint. The better *expressiveness* of the quantum versions of LSTMs & GRUs was observed with faster convergence, robustness to the varying level of gaussian noise within data and way less parameter count compared to classical versions to achieve same MSE loss with the constraint on epochs.
 {: style="text-align: justify;"}
