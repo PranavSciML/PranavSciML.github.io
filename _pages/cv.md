@@ -38,13 +38,13 @@ Schlumberger (SLB), Oxfordshire, United Kingdom
 **MSc Thesis Student**,  &nbsp; May 2023--Sept 2023 <br />
 Imperial College London (ICL), London, United Kingdom
 
-**Research Internship**,  &nbsp; Mar 2021--Oct 2021 <br />
+**ML Research Internship**,  &nbsp; Mar 2021--Oct 2021 <br />
 Carnegie Mellon University (CMU), Pennsylvania, USA
 
 **Summer Fellowship Research Programme (SFRP-2020)**,  &nbsp; Jun 2020--Aug 2020 <br />
 Indian Institute of Technology Delhi (IITD), India
 
-**Summer Internship**,  &nbsp; May 2019--Jul 2019 <br />
+**CFD Software Internship**,  &nbsp; May 2019--Jul 2019 <br />
 Forbes Marshall, IIT Madras Research Park, India
 
 **Airframe CFD Engineer - Unmanned Aerial Systems (UAS-DTU)**,  &nbsp; Nov 2018--April 2020 <br />
@@ -52,10 +52,10 @@ Delhi Technological University (DTU), India
 
 ## Skills
 
-**Programming**: Python, Matlab, Fortran, C/C++ <br />
-**Machine Learning**: Pytorch, Tensorflow, Scikit-Learn, Optuna <br />
-**CFD and CAD**: ANSYS Fluent, Star-CCM+, Nektar++, OpenFOAM, SolidWorks, XFOIL <br />
-**Other**: Git (Version Control), Matlab, Latex.
+**Languages**: Python, C and C++, OpenGL, LaTeX, SQL, Julia Fortran <br />
+**Machine Learning & Deep Learning**: Scikit-learn, Pandas, Numpy, Pytorch, SciPy, TensorFlow, CUDA, Azure ML <br />
+**CFD and CAD**:  Star-CCM+, ANSYS Fluent, OpenFOAM (C++), Nektar++ (C++) <br />
+**Other**: Excel, PowerPoint, PowerBI, Cloud Environments (AWS, GCP), wandb, Streamlit
 
 ## Journal Publications
 1. Pant, Pranshu, Ruchit Doshi, **Pranav Bahl**, and Amir Barati Farimani. [Deep learning for reduced order modelling and efficient temporal evolution of fluid simulations](https://pranavsciml.github.io/publication/POF_Y2021) *, Physics of Fluids 33, 107101,* no. 10 (2021).
@@ -63,15 +63,15 @@ Delhi Technological University (DTU), India
 
 
 ## Relevant courses
-### Imperial College London Courseworks
+### Imperial College London - Courseworks
 * Computational Fluid Dynamics (CFD)
 * Turbulence and Turbulence Modelling
 * Computational Linear Algebra
 * Advanced Fluid Mechanics and Fluid Structure Interaction (FSI)
 * Artificial Intelligence/Machine Learning
 
-### University of Michigan Courseworks
+### University of Michigan, Ann Arbor - Courseworks
 * Turbulence
 * Bayesian Inference and Estimation
 * Linear systems theory
-* Convex Optimization
+* Multidisciplinary Optimization
