@@ -9,6 +9,16 @@ classes: wide
 {: style="text-align: justify;"}
 
 ## 1. Data Assimilation and Probabilitic Inference
+In practice it is often the case that we have uncertainties in both our information of the state of the system and as well as the global parameters that dictate the intrinsic physics of the system. Data Assimilation process hence can be utilized to improve our knowledge of both our state and parameters, however this process calls for reformulating our problem and augmenting our problem such that it account for both parameter-state estimation.  
+
+### Generative AI - Denoising Diffusion Probabilistic Models 
+The idea of Diffusion models is to generate unique samples from the original data distribution via a parametrized (neural network based) markov chain based networks trained using the concept variational inference through the modeling of dynamical system (Stochastic differential equations or Ordinary differential equations) within constrained time steps. These transitions of the markov chain are achieved via gradual adding of gaussian noise to the original distribution gradually destroying the structure to a pure gaussian distribution and thereafter a reverse diffusion process approximating score function via neural networks (i.e., the modeling of dynamical system) and achieving the denoising within finite steps. In my research we used the latent variation (much more stable !) wherein we utilized Tensor Train (TT) Network latent spaces to generate spatio-temporal dynamical evolution of game plays. The project introduced multidisciplinary activities wherein to generate game plays data was generated via Reinforcement learning.   
+
+
+### Heuristic Optimization 
+Performing data assimilation is a unique challenge wherein within the assimilation window 
+
+### Probabilitic Inference - Kalman Filtering
 
 ## 2. Deep learning and Chaotic dynamical systems
 Chaotic systems exhibit extreme sensitivity to the initial conditions, which makes it a challenging problem coupled with the range of spatio-temporal characteristics exhibited by the system. These complexities in the dynamics of forecasting/prediction of complex systems are often encountered in various scientific disciplines and are also in their nascent stages for the exploration of machine learning as the gateway. The universality of the deep-learning framework being able to approximate a continuous function (within a specified range) in such cases, i.e. time series problems, raises the idea of being able to formulate an autonomous dynamical system. Hence, so far I have explored the following:  
