@@ -20,7 +20,7 @@ The idea of Diffusion models is to generate unique samples from the original dat
 Performing data assimilation is a unique challenge wherein, within the assimilation window, when forming the optimization problem for an overdetrmined system (with in-situ measurements available at discrete temporal locations) leads to few different issues 1) Gradient based methods don't work with high fidelity simulations models as their analytical gradients aren't readily accessible (which would consequently require other time intensive numerical method, which also might be innacurate) or 2) Functions maybe discontinuos or discrete hence gradient based approaches doesn't work 3) they are computationally expensive 4) the optimization function may introduce several local minima and the parameters inferred from a better minima might always not be physical and requires the domain knowledge to make definitive selections. Hence in my research I came up with a novel clustering based heuristic algorithm that changes a single-objective optimization problem to a multi-objective optimization problem inferring all the respective parameter combinations. Currently working on the publications, more details on the algorithm proposed would be shared there.     
 {: style="text-align: justify;"}
 
-<p align="center"><b>Particle Swarm Optimization (left) vs Novel clustering heuristic Search (right)</b></p>
+<p align="center"><b>Particle Swarm Optimization (left) vs Novel Clustering Search (right)</b></p>
 <p align="center">
   <img src="/images/PSO.gif" width="45%" />
   <img src="/images/Heuristics.gif" width="45%" />
