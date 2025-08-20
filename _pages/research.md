@@ -12,9 +12,17 @@ classes: wide
 In practice it is often the case that we have uncertainties in both our information of the state of the system and as well as the global parameters that dictate the intrinsic physics of the system. Data Assimilation process hence can be utilized to improve our knowledge of both our state and parameters, however this process calls for reformulating our problem and augmenting our problem such that it account for both parameter-state estimation. 
 {: style="text-align: justify;"}  
 
-### Generative AI - Denoising Diffusion Probabilistic Models 
+### Generative AI - Denoising Diffusion Probabilistic Models (DDPMs) 
 The idea of Diffusion models is to generate unique samples from the original data distribution via a parametrized (neural network based) markov chain based networks trained using the concept variational inference through the modeling of dynamical system (Stochastic differential equations or Ordinary differential equations) within constrained time steps. These transitions of the markov chain are achieved via gradual adding of gaussian noise to the original distribution gradually destroying the structure to a pure gaussian distribution and thereafter a reverse diffusion process approximating score function via neural networks (i.e., the modeling of dynamical system) and achieving the denoising within finite steps. In my research we used the latent variation (much more stable !) wherein we utilized Tensor Train (TT) Network latent spaces to generate spatio-temporal dynamical evolution of game plays. The project introduced multidisciplinary activities wherein to generate game plays data was generated via Reinforcement learning. 
 {: style="text-align: justify;"}
+
+<center><p float="center">
+<p align="center"><b>Ground Truth Gameplay (left) vs DDPM Gameplay (right)</b></p>
+<p align="center">
+  <img src="/images/GrndTruth.gif" width="37%" />
+  <img src="/images/DDPM.gif" width="37%" />
+</p>
+</p></center>
 
 ### Heuristic Optimization 
 Performing data assimilation is a unique challenge wherein, within the assimilation window, when forming the optimization problem for an overdetrmined system (with in-situ measurements available at discrete temporal locations) leads to few different issues 1) Gradient based methods don't work with high fidelity simulations models as their analytical gradients aren't readily accessible (which would consequently require other time intensive numerical method, which also might be innacurate) or 2) Functions maybe discontinuos or discrete hence gradient based approaches doesn't work 3) they are computationally expensive 4) the optimization function may introduce several local minima and the parameters inferred from a better minima might always not be physical and requires the domain knowledge to make definitive selections. Hence in my research I came up with a novel clustering based heuristic algorithm that changes a single-objective optimization problem to a multi-objective optimization problem inferring all the respective parameter combinations. Currently working on the publications, more details on the algorithm proposed would be shared there.     
