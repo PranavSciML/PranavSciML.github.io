@@ -28,7 +28,7 @@ Performing data assimilation is a unique challenge wherein, within the assimilat
 ### Probabilitic Inference - Kalman Filtering
 The Ensemble Kalman Filters (EnKFs) and Ensemble square-root Kalman Filters (EnSRKFs) are recursive Bayesian filters based on gaussian probability distribution assumptions which are similar to particle filters wherein instead of particles here we consider ensemble members. These filters are highly scalable for problems in the context of dimensionality of the dynamical system considered since no storage and separate computation of covariance is needed and the sample covariance can be computed from the ensemble propagated in time. These algorithms hence can be utilized to improve our knowledge of both our state and parameters with the respective uncertainty aware predictions.
 <center><p float="center">
-  <img src="/images/ENKF_L63" width="67%" />
+  <img src="/images/ENKF_L63.png" width="67%" />
 </p></center>
 
 ## 2. Deep learning and Chaotic dynamical systems
