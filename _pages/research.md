@@ -19,8 +19,8 @@ The idea of Diffusion models is to generate unique samples from the original dat
 <center><p float="center">
 <p align="center"><b>Ground Truth Gameplay (left) vs DDPM Gameplay (right)</b></p>
 <p align="center">
-  <img src="/images/GrndTruth.gif" width="20%" />
-  <img src="/images/DDPM.gif" width="20%" />
+  <img src="/images/GrndTruth.gif" width="22%" />
+  <img src="/images/DDPM.gif" width="22%" />
 </p>
 </p></center>
 
