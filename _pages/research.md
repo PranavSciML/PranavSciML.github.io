@@ -23,8 +23,8 @@ Performing data assimilation is a unique challenge wherein, within the assimilat
 <center><p float="center">
 <p align="center"><b>Particle Swarm Optimization (left) vs Novel Clustering Search (right)</b></p>
 <p align="center">
-  <img src="/images/PSO.gif" width="40%" />
-  <img src="/images/Heuristics.gif" width="40%" />
+  <img src="/images/PSO.gif" width="37%" />
+  <img src="/images/Heuristics.gif" width="37%" />
 </p>
 </p></center>
 
